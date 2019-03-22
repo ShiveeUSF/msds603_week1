@@ -1,6 +1,3 @@
-ec2_address = "ec2-34-201-139-29.compute-1.amazonaws.com"
-user = "ec2-user"
-key_file = "/.ssh/projectx.pem"
-dir_name = "projectx"
-root_dir = "/home/ec2-user"
-time_out = 60
+orig_coord = '37.7909,-122.3925'
+dest_coord = '37.7765,-122.4506'
+output_file_name = 'output.txt'
